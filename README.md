@@ -21,7 +21,7 @@ About me
 	<a href="https://www.youtube.com/channel/UCwG-x2zQK-FPQQHOMcx47Dw" target="_blank">
 		<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a>
 	<a href="https://github.com/Joelciomatias"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/5541987052550"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+<!-- 	<a href="https://wa.me/5541987052550"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a> -->
 	<a href="https://www.linkedin.com/in/joelcio-matias-28583a138/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <!--	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -29,6 +29,8 @@ About me
 	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a> -->
 </p>
 
+HTML : <img src="https://visitor-badge.feriirawann.repl.co?username=Joelciomatias&repo=Joelciomatias" alt="Visitor Badge" />
+Markdown : ![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=Joelciomatias&repo=Joelciomatias)
 <!--
 
 
