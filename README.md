@@ -29,8 +29,8 @@ About me
 	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a> -->
 </p>
 
-HTML : <img src="https://visitor-badge.feriirawann.repl.co?username=Joelciomatias&repo=Joelciomatias" alt="Visitor Badge" />
-Markdown : ![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=Joelciomatias&repo=Joelciomatias)
+<img src="https://visitor-badge.feriirawann.repl.co?username=Joelciomatias&repo=Joelciomatias" alt="Visitor Badge" />
+
 <!--
 
 
